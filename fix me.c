@@ -10,5 +10,5 @@ int main()
     str_t->wYear,str_t->wMonth,str_t->wDay
     ,str_t->wHour,str_t->wMinute,str_t->wSecond);
 
-	getch();
+	 getch();
 }
